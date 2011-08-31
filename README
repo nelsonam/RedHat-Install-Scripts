@@ -1,0 +1,5 @@
+install.sh is to be run on your client machine(s).
+
+install_server.sh is to be run on the server.
+
+This has been tested on Red Hat Enterprise Linux 6.
